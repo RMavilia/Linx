@@ -1,9 +1,10 @@
 class PluginsClass:
-	def __init__(self,newServer,newChannel,newNickname,newSocket):
-		self.ircsocket=newSocket
+	def __init__(self,newServer,newChannel,newNickname,newPassword,newSocket):
 		self.channel=newChannel
 		self.server=newServer
 		self.nickname=newNickname
+		self.password=newPassword
+		self.ircsocket=newSocket
 	def sendMessage(self,ircsocket,newChannel,message):
 		ircsocket.send("PRIVMSG "+newChannel+" :"+message+"\r\n")
 	def joinChannel(self,ircsocket,newChannel):
@@ -16,16 +17,16 @@ class PluginsClass:
 		if "376" in incomingMsg:
 			ircsocket.send("JOIN " + self.channel+"\r\n")
 		if "366" in incomingMsg:
-			ircsocket.send("PRIVMSG NickServ :identify "+nickname+" "+password+"\r\n")
+			ircsocket.send("PRIVMSG NickServ :identify "+self.nickname+" "+self.password+"\r\n")
 		if "licks" in incomingMsg:
-			ircsocket.send("PRIVMSG "+channel+" :STOP LICKING EACH OTHER!\r\n")
+			ircsocket.send("PRIVMSG "+self.channel+" :STOP LICKING THE NICE KITTY!\r\n")
 		if "#bio" in incomingMsg:
-			sendMessage("the lick bot.")
+			self.sendMessage("the lick bot.")
 		if "#join" in incomingMsg:
 			newChannel=incomingMsg[(incomingMsg.index("#join ")+6):]
-			joinChannel(ircsocket,newChannel)
+			self.joinChannel(ircsocket,newChannel)
 		if "#kill" in incomingMsg:
 			loop=False
 		if "#YOLO" in incomingMsg:
-			sendMessage(ircsocket,incomingMsg.split()[2],"FUCK IT! IM OUTIE DOE")
-			leaveChannel(ircsocket,incomingMsg.split()[2], "Said fuck it, yolo.")
+			self.sendMessage(ircsocket,incomingMsg.split()[2],"FUCK IT! IM OUTIE DOE")
+			self.leaveChannel(ircsocket,incomingMsg.split()[2], "Said fuck it, yolo.")
