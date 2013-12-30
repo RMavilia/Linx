@@ -1,12 +1,12 @@
 import socket
-from plugins import *
-server = "irc.awfulnet.org" #Server
+import plugins
+server = "squid.awfulnet.org" #Server
 channel = "#fitness" #Channel
 nickname = "Linx" #Bot nickname
 password = raw_input("What is your password? ")
 port = 6667
 ircsocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-getInfo(server,channel,nickname,ircsocket)
+myPlugins=plugins.PluginsClass(server,channel,nickname,ircsocket)
 ircsocket.connect((server,port))
 ircsocket.send("NICK "+ nickname+"\r\n")
 ircsocket.send("USER "+nickname+" 0 * "+ ":RYAN"+"\r\n")
@@ -16,4 +16,4 @@ while loop:
 	incomingMsg = ircsocket.recv (4096) #Make Data the Receive Buffer
 	print incomingMsg #Print the Data to the console(For debug purposes)
 	archiveFile.write(incomingMsg)#log it in the archive txt doc
-	pluginStatements(ircsocket,incomingMsg)
+	myPlugins.pluginStatements(ircsocket,incomingMsg)
