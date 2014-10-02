@@ -1,4 +1,4 @@
 Linx
 ====
 
-Linx: A Simple Python IRC Bot
+Linx: A Simple Python IRC Bot 
