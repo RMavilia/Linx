@@ -3,6 +3,7 @@ import plugins
 import imp
 from datetime import datetime
 
+
 server = "squid.awfulnet.org" #Server
 channel = "#teenagers" #Channel
 nickname = "Linx" #Bot nickname
