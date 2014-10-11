@@ -18,16 +18,15 @@ class PluginsClass:
 	def pluginStatements(self,ircsocket,incomingMsg):
 		if incomingMsg.find('PING') != -1: #If PING is Found in the data send a pong back
 			ircsocket.send('PONG '+incomingMsg.strip("PING "))
-		if "376" in incomingMsg:
-			ircsocket.send("JOIN " + self.channel+"\r\n")
-		if "366" in incomingMsg:
+		if "001" in incomingMsg:
 			ircsocket.send("PRIVMSG NickServ :identify "+self.nickname+" "+self.password+"\r\n")
+			ircsocket.send("JOIN " + self.channel+"\r\n")
 		if "licks" in incomingMsg:
 			ircsocket.send("PRIVMSG "+self.channel+" :that was hot.\r\n")
 		if "|bio" in incomingMsg:
 			self.sendMessage(ircsocket,self.channel,"created by Mav type |help for other commands.")
 		if "|help" in incomingMsg:
-			self.sendMessage(ircsocket,self.channel,"Current commands: |help (fuck you im working on it)")	
+			self.sendMessage(ircsocket,self.channel,"Current commands: |help (fuck you im working on it)")
 		if "|join" in incomingMsg:
 			newChannel=incomingMsg[(incomingMsg.index("|join ")+6):]
 			self.joinChannel(ircsocket,newChannel)

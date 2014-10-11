@@ -4,8 +4,8 @@ import imp
 from datetime import datetime
 
 
-server = "squid.awfulnet.org" #Server
-channel = "#teenagers" #Channel
+server = "irc.subluminal.net" #Server
+channel = "#bots" #Channel
 nickname = "Linx" #Bot nickname
 password = raw_input("What is your password? ")
 port = 6667

@@ -1,1 +1,266 @@
 LOG FILE
+2014/10/11 15:54:10 :lithium.subluminal.net NOTICE AUTH :*** Looking up your hostname...
+2014/10/11 15:54:10 :lithium.subluminal.net NOTICE AUTH :*** Found your hostname
+PING :BCA1C209
+2014/10/11 15:54:10 :BCA1C209!nospoof@lithium.subluminal.net PRIVMSG Linx :VERSION
+:lithium.subluminal.net 451 PING :You have not registered
+2014/10/11 15:54:10 :lithium.subluminal.net 001 Linx :Welcome to the subluminal IRC Network Linx!Linx@jedery.student.umd.edu
+:lithium.subluminal.net 002 Linx :Your host is lithium.subluminal.net, running version Unreal3.2.10.2
+:lithium.subluminal.net 003 Linx :This server was created Tue Apr 8 2014 at 16:00:05 EDT
+:lithium.subluminal.net 004 Linx lithium.subluminal.net Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:lithium.subluminal.net 005 Linx CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=70 CHANLIMIT=#:70 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:lithium.subluminal.net 005 Linx MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=subluminal CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+:lithium.subluminal.net 005 Linx STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2014/10/11 15:54:10 :lithium.subluminal.net 251 Linx :There are 3 users and 111 invisible on 7 servers
+:lithium.subluminal.net 252 Linx 14 :operator(s) online
+:lithium.subluminal.net 253 Linx -2 :unknown connection(s)
+:lithium.subluminal.net 254 Linx 92 :channels formed
+:lithium.subluminal.net 255 Linx :I have 46 clients and 1 servers
+:lithium.subluminal.net 265 Linx 46 64 :Current local users 46, max 64
+:lithium.subluminal.net 266 Linx 114 175 :Current global users 114, max 175
+:lithium.subluminal.net 422 Linx :MOTD File is missing
+:Linx MODE Linx :+iwx
+2014/10/11 15:55:45 PING :lithium.subluminal.net
+2014/10/11 15:57:17 PING :lithium.subluminal.net
+2014/10/11 15:58:48 PING :lithium.subluminal.net
+2014/10/11 16:00:15 :lithium.subluminal.net NOTICE AUTH :*** Looking up your hostname...
+:lithium.subluminal.net NOTICE AUTH :*** Found your hostname (cached)
+2014/10/11 16:00:15 :lithium.subluminal.net 433 * Linx :Nickname is already in use.
+2014/10/11 16:02:00 :lithium.subluminal.net NOTICE AUTH :*** Looking up your hostname...
+:lithium.subluminal.net NOTICE AUTH :*** Found your hostname (cached)
+2014/10/11 16:02:00 PING :996BE28E
+2014/10/11 16:02:00 :lithium.subluminal.net 001 Linx :Welcome to the subluminal IRC Network Linx!Linx@jedery.student.umd.edu
+:lithium.subluminal.net 002 Linx :Your host is lithium.subluminal.net, running version Unreal3.2.10.2
+:lithium.subluminal.net 003 Linx :This server was created Tue Apr 8 2014 at 16:00:05 EDT
+:lithium.subluminal.net 004 Linx lithium.subluminal.net Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:lithium.subluminal.net 005 Linx CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=70 CHANLIMIT=#:70 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:lithium.subluminal.net 005 Linx MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=subluminal CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+:lithium.subluminal.net 005 Linx STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2014/10/11 16:02:00 :lithium.subluminal.net 251 Linx :There are 3 users and 111 invisible on 7 servers
+:lithium.subluminal.net 252 Linx 14 :operator(s) online
+:lithium.subluminal.net 253 Linx -2 :unknown connection(s)
+:lithium.subluminal.net 254 Linx 92 :channels formed
+:lithium.subluminal.net 255 Linx :I have 46 clients and 1 servers
+:lithium.subluminal.net 265 Linx 46 64 :Current local users 46, max 64
+:lithium.subluminal.net 266 Linx 114 175 :Current global users 114, max 175
+:lithium.subluminal.net 422 Linx :MOTD File is missing
+:Linx MODE Linx :+iwx
+2014/10/11 16:03:16 :lithium.subluminal.net NOTICE AUTH :*** Looking up your hostname...
+:lithium.subluminal.net NOTICE AUTH :*** Found your hostname (cached)
+2014/10/11 16:03:17 PING :F298A6A4
+2014/10/11 16:03:17 :lithium.subluminal.net 001 Linx :Welcome to the subluminal IRC Network Linx!Linx@jedery.student.umd.edu
+:lithium.subluminal.net 002 Linx :Your host is lithium.subluminal.net, running version Unreal3.2.10.2
+:lithium.subluminal.net 003 Linx :This server was created Tue Apr 8 2014 at 16:00:05 EDT
+:lithium.subluminal.net 004 Linx lithium.subluminal.net Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:lithium.subluminal.net 005 Linx CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=70 CHANLIMIT=#:70 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:lithium.subluminal.net 005 Linx MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=subluminal CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+:lithium.subluminal.net 005 Linx STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2014/10/11 16:03:17 :lithium.subluminal.net 251 Linx :There are 3 users and 111 invisible on 7 servers
+:lithium.subluminal.net 252 Linx 14 :operator(s) online
+:lithium.subluminal.net 253 Linx -2 :unknown connection(s)
+:lithium.subluminal.net 254 Linx 92 :channels formed
+:lithium.subluminal.net 255 Linx :I have 46 clients and 1 servers
+:lithium.subluminal.net 265 Linx 46 64 :Current local users 46, max 64
+:lithium.subluminal.net 266 Linx 114 175 :Current global users 114, max 175
+:lithium.subluminal.net 422 Linx :MOTD File is missing
+:Linx MODE Linx :+iwx
+2014/10/11 16:05:12 :lithium.subluminal.net NOTICE AUTH :*** Looking up your hostname...
+2014/10/11 16:05:13 :lithium.subluminal.net NOTICE AUTH :*** Found your hostname
+PING :B9BFF3ED
+2014/10/11 16:05:13 :B9BFF3ED!nospoof@lithium.subluminal.net PRIVMSG Linx21 :VERSION
+:lithium.subluminal.net 451 PING :You have not registered
+2014/10/11 16:05:13 :lithium.subluminal.net 001 Linx21 :Welcome to the subluminal IRC Network Linx21!Linx21@jedery.student.umd.edu
+:lithium.subluminal.net 002 Linx21 :Your host is lithium.subluminal.net, running version Unreal3.2.10.2
+:lithium.subluminal.net 003 Linx21 :This server was created Tue Apr 8 2014 at 16:00:05 EDT
+:lithium.subluminal.net 004 Linx21 lithium.subluminal.net Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:lithium.subluminal.net 005 Linx21 CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=70 CHANLIMIT=#:70 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:lithium.subluminal.net 005 Linx21 MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=subluminal CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+:lithium.subluminal.net 005 Linx21 STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2014/10/11 16:05:13 :lithium.subluminal.net 251 Linx21 :There are 3 users and 111 invisible on 7 servers
+:lithium.subluminal.net 252 Linx21 14 :operator(s) online
+:lithium.subluminal.net 253 Linx21 -2 :unknown connection(s)
+:lithium.subluminal.net 254 Linx21 92 :channels formed
+:lithium.subluminal.net 255 Linx21 :I have 46 clients and 1 servers
+:lithium.subluminal.net 265 Linx21 46 64 :Current local users 46, max 64
+:lithium.subluminal.net 266 Linx21 114 175 :Current global users 114, max 175
+:lithium.subluminal.net 422 Linx21 :MOTD File is missing
+:Linx21 MODE Linx21 :+iwx
+2014/10/11 16:06:47 PING :lithium.subluminal.net
+2014/10/11 16:08:21 PING :lithium.subluminal.net
+2014/10/11 16:08:48 :lithium.subluminal.net NOTICE AUTH :*** Looking up your hostname...
+:lithium.subluminal.net NOTICE AUTH :*** Found your hostname (cached)
+2014/10/11 16:08:48 PING :D237FB3
+2014/10/11 16:08:48 :lithium.subluminal.net 001 Linx21 :Welcome to the subluminal IRC Network Linx21!Linx21@jedery.student.umd.edu
+:lithium.subluminal.net 002 Linx21 :Your host is lithium.subluminal.net, running version Unreal3.2.10.2
+:lithium.subluminal.net 003 Linx21 :This server was created Tue Apr 8 2014 at 16:00:05 EDT
+:lithium.subluminal.net 004 Linx21 lithium.subluminal.net Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:lithium.subluminal.net 005 Linx21 CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=70 CHANLIMIT=#:70 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:lithium.subluminal.net 005 Linx21 MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=subluminal CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+:lithium.subluminal.net 005 Linx21 STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2014/10/11 16:08:48 :lithium.subluminal.net 251 Linx21 :There are 3 users and 111 invisible on 7 servers
+:lithium.subluminal.net 252 Linx21 14 :operator(s) online
+:lithium.subluminal.net 253 Linx21 -2 :unknown connection(s)
+:lithium.subluminal.net 254 Linx21 92 :channels formed
+:lithium.subluminal.net 255 Linx21 :I have 46 clients and 1 servers
+:lithium.subluminal.net 265 Linx21 46 64 :Current local users 46, max 64
+:lithium.subluminal.net 266 Linx21 114 175 :Current global users 114, max 175
+:lithium.subluminal.net 422 Linx21 :MOTD File is missing
+:Linx21 MODE Linx21 :+iwx
+2014/10/11 16:10:20 PING :lithium.subluminal.net
+2014/10/11 16:11:49 PING :lithium.subluminal.net
+2014/10/11 16:13:21 PING :lithium.subluminal.net
+2014/10/11 16:14:55 PING :lithium.subluminal.net
+2014/10/11 16:16:51 :mindjail.subluminal.net NOTICE AUTH :*** Looking up your hostname...
+2014/10/11 16:16:52 :mindjail.subluminal.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+2014/10/11 16:16:52 PING :9A2DCFD4
+2014/10/11 16:16:52 :mindjail.subluminal.net 001 Linx21 :Welcome to the subluminal IRC Network Linx21!Linx21@129.2.222.247
+:mindjail.subluminal.net 002 Linx21 :Your host is mindjail.subluminal.net, running version Unreal3.2.10.1
+:mindjail.subluminal.net 003 Linx21 :This server was created Fri Apr 12 2013 at 15:44:41 EDT
+:mindjail.subluminal.net 004 Linx21 mindjail.subluminal.net Unreal3.2.10.1 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:mindjail.subluminal.net 005 Linx21 CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=70 CHANLIMIT=#:70 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:mindjail.subluminal.net 005 Linx21 MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=subluminal CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+:mindjail.subluminal.net 005 Linx21 STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2014/10/11 16:16:52 :mindjail.subluminal.net 251 Linx21 :There are 3 users and 112 invisible on 7 servers
+:mindjail.subluminal.net 252 Linx21 14 :operator(s) online
+:mindjail.subluminal.net 254 Linx21 92 :channels formed
+:mindjail.subluminal.net 255 Linx21 :I have 38 clients and 4 servers
+:mindjail.subluminal.net 265 Linx21 38 52 :Current local users 38, max 52
+:mindjail.subluminal.net 266 Linx21 115 175 :Current global users 115, max 175
+:mindjail.subluminal.net 375 Linx21 :- mindjail.subluminal.net Message of the Day - 
+:mindjail.subluminal.net 372 Linx21 :- 21/6/2013 2:07
+:mindjail.subluminal.net 372 Linx21 :- ............. [Emad In Mindjail] .............
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                   \||/                     .
+:mindjail.subluminal.net 372 Linx21 :- .                   (.o)                     .
+:mindjail.subluminal.net 372 Linx21 :- .                   -||-                     .
+:mindjail.subluminal.net 372 Linx21 :- .                    /\                      .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- ..............................................
+:mindjail.subluminal.net 372 Linx21 :- .     Welcome to mindjail.subluminal.net     .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .  mindjail.subluminal.net is IPv6 enabled!  .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .               Open Ports                   .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                SSH: 22                     .
+:mindjail.subluminal.net 372 Linx21 :- .                IRC: 6666-6668              .
+:mindjail.subluminal.net 372 Linx21 :- .                IRC+SSL: 6669, 6697         .
+:mindjail.subluminal.net 372 Linx21 :- ..............................................
+:mindjail.subluminal.net 376 Linx21 :End of /MOTD command.
+:Linx21 MODE Linx21 :+iwx
+2014/10/11 16:16:52 :Linx21!Linx21@1820AF27.95522EE9.4FAE429.IP JOIN :#superfriends
+:mindjail.subluminal.net 332 Linx21 #superfriends :<xnil> because then i'll die <carolny> yay :3 | AROUND THE WORLD | BE NICE | NO BITCHING | NISPE | VÆR HYGGELIG | IKKE TISPE | PÖRTATE BIEN | NO QUEJARTE | いいかも | 全く格好いいん | Brought to your T.V. screen by cosmic thought (patent pending) | Don't sice it. 
+:mindjail.subluminal.net 333 Linx21 #superfriends jercos 1412626773
+:mindjail.subluminal.net 353 Linx21 = #superfriends :Linx21 @Mav Qasaur @dysoco Lausi hintss | @svkampen Evan @Lion kadence %Jenn simbot @sim642 keiththehedgehog unix_kid ChanStat Infobot @vulein ~xnil @sammi @ca null &jercos NBot nathan %Ducky %OgelSplash @me dipshit ~carolny +will Ari @ChanServ 
+:mindjail.subluminal.net 366 Linx21 #superfriends :End of /NAMES list.
+2014/10/11 16:18:53 :mindjail.subluminal.net NOTICE AUTH :*** Looking up your hostname...
+2014/10/11 16:18:53 :mindjail.subluminal.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+2014/10/11 16:18:54 PING :A50D50B2
+2014/10/11 16:18:55 :mindjail.subluminal.net 001 Linx21 :Welcome to the subluminal IRC Network Linx21!Linx21@129.2.222.247
+:mindjail.subluminal.net 002 Linx21 :Your host is mindjail.subluminal.net, running version Unreal3.2.10.1
+:mindjail.subluminal.net 003 Linx21 :This server was created Fri Apr 12 2013 at 15:44:41 EDT
+:mindjail.subluminal.net 004 Linx21 mindjail.subluminal.net Unreal3.2.10.1 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:mindjail.subluminal.net 005 Linx21 CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=70 CHANLIMIT=#:70 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:mindjail.subluminal.net 005 Linx21 MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=subluminal CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+:mindjail.subluminal.net 005 Linx21 STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2014/10/11 16:18:55 :mindjail.subluminal.net 251 Linx21 :There are 3 users and 112 invisible on 7 servers
+:mindjail.subluminal.net 252 Linx21 14 :operator(s) online
+:mindjail.subluminal.net 254 Linx21 92 :channels formed
+:mindjail.subluminal.net 255 Linx21 :I have 38 clients and 4 servers
+:mindjail.subluminal.net 265 Linx21 38 52 :Current local users 38, max 52
+:mindjail.subluminal.net 266 Linx21 115 175 :Current global users 115, max 175
+:mindjail.subluminal.net 375 Linx21 :- mindjail.subluminal.net Message of the Day - 
+:mindjail.subluminal.net 372 Linx21 :- 21/6/2013 2:07
+:mindjail.subluminal.net 372 Linx21 :- ............. [Emad In Mindjail] .............
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                   \||/                     .
+:mindjail.subluminal.net 372 Linx21 :- .                   (.o)                     .
+:mindjail.subluminal.net 372 Linx21 :- .                   -||-                     .
+:mindjail.subluminal.net 372 Linx21 :- .                    /\                      .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- ..............................................
+:mindjail.subluminal.net 372 Linx21 :- .     Welcome to mindjail.subluminal.net     .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .  mindjail.subluminal.net is IPv6 enabled!  .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .               Open Ports                   .
+:mindjail.subluminal.net 372 Linx21 :- .                                            .
+:mindjail.subluminal.net 372 Linx21 :- .                SSH: 22                     .
+:mindjail.subluminal.net 372 Linx21 :- .                IRC: 6666-6668              .
+:mindjail.subluminal.net 372 Linx21 :- .                IRC+SSL: 6669, 6697         .
+:mindjail.subluminal.net 372 Linx21 :- ..............................................
+:mindjail.subluminal.net 376 Linx21 :End of /MOTD command.
+:Linx21 MODE Linx21 :+iwx
+2014/10/11 16:18:55 :Linx21!Linx21@1820AF27.95522EE9.4FAE429.IP JOIN :#superfriends
+:mindjail.subluminal.net 332 Linx21 #superfriends :<xnil> because then i'll die <carolny> yay :3 | AROUND THE WORLD | BE NICE | NO BITCHING | NISPE | VÆR HYGGELIG | IKKE TISPE | PÖRTATE BIEN | NO QUEJARTE | いいかも | 全く格好いいん | Brought to your T.V. screen by cosmic thought (patent pending) | Don't sice it. 
+:mindjail.subluminal.net 333 Linx21 #superfriends jercos 1412626773
+:mindjail.subluminal.net 353 Linx21 = #superfriends :Linx21 @Mav Qasaur @dysoco Lausi hintss | @svkampen Evan @Lion kadence %Jenn simbot @sim642 keiththehedgehog unix_kid ChanStat Infobot @vulein ~xnil @sammi @ca null &jercos NBot nathan %Ducky %OgelSplash @me dipshit ~carolny +will Ari @ChanServ 
+:mindjail.subluminal.net 366 Linx21 #superfriends :End of /NAMES list.
+2014/10/11 16:20:17 :mindjail.subluminal.net NOTICE AUTH :*** Looking up your hostname...
+2014/10/11 16:20:18 :mindjail.subluminal.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+2014/10/11 16:20:18 PING :8E4895CA
+2014/10/11 16:20:18 :mindjail.subluminal.net 001 Linx :Welcome to the subluminal IRC Network Linx!Linx@129.2.222.247
+:mindjail.subluminal.net 002 Linx :Your host is mindjail.subluminal.net, running version Unreal3.2.10.1
+:mindjail.subluminal.net 003 Linx :This server was created Fri Apr 12 2013 at 15:44:41 EDT
+:mindjail.subluminal.net 004 Linx mindjail.subluminal.net Unreal3.2.10.1 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:mindjail.subluminal.net 005 Linx CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=70 CHANLIMIT=#:70 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:mindjail.subluminal.net 005 Linx MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=subluminal CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+:mindjail.subluminal.net 005 Linx STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2014/10/11 16:20:18 :mindjail.subluminal.net 251 Linx :There are 3 users and 112 invisible on 7 servers
+:mindjail.subluminal.net 252 Linx 14 :operator(s) online
+:mindjail.subluminal.net 254 Linx 92 :channels formed
+:mindjail.subluminal.net 255 Linx :I have 38 clients and 4 servers
+:mindjail.subluminal.net 265 Linx 38 52 :Current local users 38, max 52
+:mindjail.subluminal.net 266 Linx 115 175 :Current global users 115, max 175
+:mindjail.subluminal.net 375 Linx :- mindjail.subluminal.net Message of the Day - 
+:mindjail.subluminal.net 372 Linx :- 21/6/2013 2:07
+:mindjail.subluminal.net 372 Linx :- ............. [Emad In Mindjail] .............
+:mindjail.subluminal.net 372 Linx :- .                                            .
+:mindjail.subluminal.net 372 Linx :- .                                            .
+:mindjail.subluminal.net 372 Linx :- .                                            .
+:mindjail.subluminal.net 372 Linx :- .                                            .
+:mindjail.subluminal.net 372 Linx :- .                                            .
+:mindjail.subluminal.net 372 Linx :- .                                            .
+:mindjail.subluminal.net 372 Linx :- .                                            .
+:mindjail.subluminal.net 372 Linx :- .                   \||/                     .
+:mindjail.subluminal.net 372 Linx :- .                   (.o)                     .
+:mindjail.subluminal.net 372 Linx :- .                   -||-                     .
+:mindjail.subluminal.net 372 Linx :- .                    /\                      .
+:mindjail.subluminal.net 372 Linx :- .                                            .
+:mindjail.subluminal.net 372 Linx :- .                                            .
+:mindjail.subluminal.net 372 Linx :- .                                            .
+:mindjail.subluminal.net 372 Linx :- .                                            .
+:mindjail.subluminal.net 372 Linx :- .                                            .
+:mindjail.subluminal.net 372 Linx :- .                                            .
+:mindjail.subluminal.net 372 Linx :- .                                            .
+:mindjail.subluminal.net 372 Linx :- ..............................................
+:mindjail.subluminal.net 372 Linx :- .     Welcome to mindjail.subluminal.net     .
+:mindjail.subluminal.net 372 Linx :- .                                            .
+:mindjail.subluminal.net 372 Linx :- .  mindjail.subluminal.net is IPv6 enabled!  .
+:mindjail.subluminal.net 372 Linx :- .                                            .
+:mindjail.subluminal.net 372 Linx :- .               Open Ports                   .
+:mindjail.subluminal.net 372 Linx :- .                                   
