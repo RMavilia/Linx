@@ -263,4 +263,368 @@ PING :B9BFF3ED
 :mindjail.subluminal.net 372 Linx :- .  mindjail.subluminal.net is IPv6 enabled!  .
 :mindjail.subluminal.net 372 Linx :- .                                            .
 :mindjail.subluminal.net 372 Linx :- .               Open Ports                   .
-:mindjail.subluminal.net 372 Linx :- .                                   
+:mindjail.subluminal.net 372 Linx :- .                                            .
+:mindjail.subluminal.net 372 Linx :- .                SSH: 22                     .
+:mindjail.subluminal.net 372 Linx :- .                IRC: 6666-6668              .
+:mindjail.subluminal.net 372 Linx :- .                IRC+SSL: 6669, 6697         .
+:mindjail.subluminal.net 372 Linx :- ..............................................
+:mindjail.subluminal.net 376 Linx :End of /MOTD command.
+:Linx MODE Linx :+iwx
+2014/10/11 16:20:18 :Linx!Linx@1820AF27.95522EE9.4FAE429.IP JOIN :#bots
+:mindjail.subluminal.net 332 Linx #bots :Subluminal Bot channel
+:mindjail.subluminal.net 333 Linx #bots nameless 1409465807
+:mindjail.subluminal.net 353 Linx = #bots :Linx Mav epsilon svkampen Atreus simbot doge Infobot ~jercos nathan ougi TimeBot will Evan me ~abzde xnil @ChanServ ~nameless 
+:mindjail.subluminal.net 366 Linx #bots :End of /NAMES list.
+2014/10/11 16:20:18 :NickServ!NickServ@NickServ.services.subluminal.net NOTICE Linx :Linx is not a registered nickname.
+2014/10/11 16:20:34 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :|join #programming
+2014/10/11 16:20:35 :Linx!Linx@1820AF27.95522EE9.4FAE429.IP JOIN :#programming
+:mindjail.subluminal.net 332 Linx #programming :Happy Birthday CSS | <kadence> xnil: i dare u to cum in her blanket | <cinebox> also BASE 10 IS ARBITRARY ARGH I HATE NUMBERS | #programming: no actual programming discussion. 
+:mindjail.subluminal.net 333 Linx #programming jercos 1412972199
+:mindjail.subluminal.net 353 Linx = #programming :Linx Mav Evan doge | %svkampen ougi ChanStat dysoco sarahcat Ari alex hintss Ducky taCo tacobot OgelSplash @nathan %Lion Sigma simbot %sim642 &kadence unix_kid %Roman Sharpie cinebox Infobot Jordan zero %me carolny @sammi @ca fox^ null ~jercos NBot +alyx +symmetry +^^ +TimeBot +will +artemis %xnil @ChanServ 
+:mindjail.subluminal.net 366 Linx #programming :End of /NAMES list.
+2014/10/11 16:20:41 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :schweet
+2014/10/11 16:20:42 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :lick
+2014/10/11 16:20:43 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :licks
+2014/10/11 16:20:43 :mindjail.subluminal.net 421 Linx ingPRIVMSG :Unknown command
+2014/10/11 16:20:47 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :fuck
+2014/10/11 16:20:52 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :what
+2014/10/11 16:20:56 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :hold up
+2014/10/11 16:20:58 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :lol
+2014/10/11 16:21:01 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :no biggie sammi
+2014/10/11 16:21:11 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :oh btw
+2014/10/11 16:21:17 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :is it on github?
+2014/10/11 16:21:33 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :yea
+2014/10/11 16:21:33 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :oh right i saw the folder name thing <.<
+2014/10/11 16:21:36 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :haha
+2014/10/11 16:22:01 :Evan!devil@AC2EC53D.9DB46496.D6F8BC95.IP PRIVMSG #programming :whoa
+2014/10/11 16:22:03 :Evan!devil@AC2EC53D.9DB46496.D6F8BC95.IP PRIVMSG #programming :https://www.dropbox.com/s/06nqjpwccwiz2zk/Screenshot%202014-10-11%2013.21.53.png?dl=0
+2014/10/11 16:22:08 :Evan!devil@AC2EC53D.9DB46496.D6F8BC95.IP PRIVMSG #programming :didn't realize how much data this thing uses
+2014/10/11 16:22:19 PING :mindjail.subluminal.net
+2014/10/11 16:22:46 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :Mav: > 10 days ago
+2014/10/11 16:22:52 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :|bio
+2014/10/11 16:22:56 :dysoco!dysoco@hide-3E456BB0.telecom.net.ar PRIVMSG #programming :X-Plane is 55Gb
+2014/10/11 16:22:59 :dysoco!dysoco@hide-3E456BB0.telecom.net.ar PRIVMSG #programming :is this a fucking joke
+2014/10/11 16:23:02 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :no
+2014/10/11 16:23:03 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :|help
+2014/10/11 16:23:04 :doge!skynet@i.am.rly.sx PRIVMSG #bots :Mav: available commands: add, aignore, ban, bitcoin, chat, checkban, cycle, ddg, deop, devoice, expand, firefox, fuckingweather, getinfo, getop, googleplay, help, imdb, img, info, isup, kick, kickban, lastfm, lastfmcompare, mcnametaken, metrictime, mode, mute, op, permissions, ping, pomf, quiet, randreddit, reddit, relay, rignore, rignored, rlysx, rss, seen, sh, source, tld, tpb, translate, unban, unmute, unquiet, uptime, version, voice, weather, whois, wikipedia, w
+2014/10/11 16:23:05 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :no it isn't
+2014/10/11 16:23:13 :dysoco!dysoco@hide-3E456BB0.telecom.net.ar PRIVMSG #programming :I'll keep playing Flight Sim 2000 thanks
+2014/10/11 16:23:20 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :lol
+2014/10/11 16:23:22 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :lol
+2014/10/11 16:23:39 :dysoco!dysoco@hide-3E456BB0.telecom.net.ar PRIVMSG #programming :It's the best one cause you can still crash into the twin towers
+2014/10/11 16:23:44 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :licks you
+2014/10/11 16:23:47 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :ok
+2014/10/11 16:23:49 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :haha
+:OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :I just figured out I can switch between languages with Left Alt-Shift ;p
+2014/10/11 16:23:53 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming ::3
+2014/10/11 16:23:57 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :ACTION licks sammi 
+2014/10/11 16:24:01 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :fuck
+2014/10/11 16:24:03 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :ok
+2014/10/11 16:24:05 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :i need him
+2014/10/11 16:24:08 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :err her
+:sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :wat
+2014/10/11 16:24:15 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :to send the message to the channel it comes from
+2014/10/11 16:24:22 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :ah
+2014/10/11 16:25:15 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :Mav: that might help a little bit
+2014/10/11 16:25:22 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :haha
+2014/10/11 16:25:25 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :now how to do it
+2014/10/11 16:25:25 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :lol
+2014/10/11 16:25:32 PING :mindjail.subluminal.net
+2014/10/11 16:25:34 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :a message looksl ike
+2014/10/11 16:25:40 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :PRIVMSG #<channel> :<message>
+:taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :just parse the channel from the incoming message and send it to that
+2014/10/11 16:25:43 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :so get that middle part
+2014/10/11 16:25:50 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :well actually
+2014/10/11 16:25:59 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :brb fodstoofs
+2014/10/11 16:26:05 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming ::<n!u@h> PRIVMSG #<channel> :<message>
+2014/10/11 16:26:09 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :sammi, cant i just find the first #
+2014/10/11 16:26:14 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :yes you can actually
+2014/10/11 16:26:18 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :and grab from there until whitespace!
+2014/10/11 16:26:21 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :yeah
+2014/10/11 16:26:27 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :what is the thing for that in python
+2014/10/11 16:26:29 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :although it's a better idea to write a full parser :3
+2014/10/11 16:26:34 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :haha
+:taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :but then you can't do private messages from nicks
+2014/10/11 16:26:43 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :like
+2014/10/11 16:26:43 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :okay
+2014/10/11 16:26:54 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :yeah for PMs
+2014/10/11 16:26:58 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :you need to parse the n!u@h part
+2014/10/11 16:26:59 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :but this is just for the join command
+2014/10/11 16:27:06 PING :mindjail.subluminal.net
+2014/10/11 16:27:19 :OverCoder!OverCoder@F7DFDDC3.501D7EC.734EE8FF.IP JOIN :#programming
+:taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :anyways
+2014/10/11 16:27:20 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :brb
+2014/10/11 16:28:10 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :k
+2014/10/11 16:28:20 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :so i'm looking at your code
+2014/10/11 16:28:32 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :updated code?
+2014/10/11 16:28:39 PING :mindjail.subluminal.net
+2014/10/11 16:28:43 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :yeah
+2014/10/11 16:28:48 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :whatever's on github right now
+2014/10/11 16:28:51 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :ok
+2014/10/11 16:29:08 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :this is what tacobot used to look like
+2014/10/11 16:29:14 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :haha
+2014/10/11 16:29:27 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :and then taco implemented OO design
+2014/10/11 16:30:13 PING :mindjail.subluminal.net
+2014/10/11 16:31:16 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :which admittedly was a huge improvement
+2014/10/11 16:31:32 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :ACTION nods
+2014/10/11 16:31:33 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :it made everything easier in the long run
+2014/10/11 16:31:47 PING :mindjail.subluminal.net
+2014/10/11 16:32:00 :OverCoder!OverCoder@F7DFDDC3.501D7EC.734EE8FF.IP QUIT :Ping timeout: 185 seconds
+2014/10/11 16:32:39 :OverCoder!OverCoder@9E770C0D.C7CC1464.55736CED.IP JOIN :#programming
+2014/10/11 16:32:55 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :food tiem
+2014/10/11 16:33:18 PING :mindjail.subluminal.net
+2014/10/11 16:33:28 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :holy fuck taCo bot is big
+2014/10/11 16:33:43 :OverCoder!OverCoder@9E770C0D.C7CC1464.55736CED.IP PRIVMSG #programming :Good night guys
+2014/10/11 16:33:55 :OverCoder!OverCoder@9E770C0D.C7CC1464.55736CED.IP PRIVMSG #programming :Too tired need to sleep
+2014/10/11 16:34:50 PING :mindjail.subluminal.net
+2014/10/11 16:35:30 :OverCoder!OverCoder@9E770C0D.C7CC1464.55736CED.IP QUIT :Connection reset by peer
+2014/10/11 16:36:03 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming ::p
+2014/10/11 16:36:21 PING :mindjail.subluminal.net
+2014/10/11 16:37:17 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :Mav: that's because I haven't transferred all of the commands to modules
+2014/10/11 16:37:33 :Roman!sasaki@B264FC1:8D66E6D9:70AB718:IP PRIVMSG #programming :i think i'm marginally a better coder than when i first wrote this thing
+2014/10/11 16:37:53 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :I'm marginally less hungry than before I had those hotdogs
+2014/10/11 16:37:53 PING :mindjail.subluminal.net
+2014/10/11 16:38:10 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :maybe I'll have some chips and salsa
+2014/10/11 16:38:12 :Roman!sasaki@B264FC1:8D66E6D9:70AB718:IP PRIVMSG #programming :no nesting 5 for loops/if-else/try-excepts
+2014/10/11 16:38:33 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :I am so jealous that you have salsa
+2014/10/11 16:38:36 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :>Doritos
+2014/10/11 16:38:39 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :>Never get salsa
+2014/10/11 16:38:46 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :>WAI d:
+2014/10/11 16:38:50 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :s/d/D/
+2014/10/11 16:38:51 :svkampen!svkampen@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :14<ogelsplash> >WAI D:
+2014/10/11 16:39:18 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :so heinous :x
+2014/10/11 16:39:25 PING :mindjail.subluminal.net
+2014/10/11 16:39:49 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :holy fuck
+2014/10/11 16:39:58 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :I just realized I could use monitors as storage devices
+2014/10/11 16:40:03 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :in CC
+2014/10/11 16:40:10 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :o_O
+2014/10/11 16:40:15 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :you can>
+2014/10/11 16:40:20 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :s/>/??
+2014/10/11 16:40:24 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :just write things to them and then read that data from it later
+2014/10/11 16:40:28 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :ACTION slaps himself
+2014/10/11 16:40:32 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :oh, right
+2014/10/11 16:40:39 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :wait
+2014/10/11 16:40:46 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :maybe you can't read individual characters
+2014/10/11 16:40:49 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :I don't remember
+2014/10/11 16:40:55 PING :mindjail.subluminal.net
+2014/10/11 16:41:00 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :but if you could, you could use them as storage devices
+2014/10/11 16:41:07 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :they wouldn't hold much, however
+2014/10/11 16:42:05 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :I'm gonna make that OE in a creative mode world so it's easier to not get distracted
+2014/10/11 16:42:16 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :mmhmm
+2014/10/11 16:42:23 :Batgirl!AndChat467@hide-9B400DF2.cable.virginm.net JOIN :#programming
+2014/10/11 16:42:27 PING :mindjail.subluminal.net
+2014/10/11 16:42:28 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :hey Batgirl
+2014/10/11 16:42:46 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :hiya Batgirl
+2014/10/11 16:43:53 :Batgirl!AndChat467@hide-9B400DF2.cable.virginm.net PRIVMSG #programming :Sup
+2014/10/11 16:43:59 PING :mindjail.subluminal.net
+2014/10/11 16:44:27 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :tryna print out some Japanese hiragana worksheets
+2014/10/11 16:44:33 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :3>load superflat creative world with 1 layer of grass blocks, 4 layers of dirt, and 1 layer of bedrock
+2014/10/11 16:44:40 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :3>only bedrock
+2014/10/11 16:44:46 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming ::P
+2014/10/11 16:44:47 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :like srsly y
+2014/10/11 16:45:04 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :cuz Notch sold out on ya bb
+2014/10/11 16:45:17 :Batgirl!AndChat467@hide-9B400DF2.cable.virginm.net PRIVMSG #programming :GML disgusts me 
+2014/10/11 16:45:20 :taCo!taco@4696C362.1E6F0DAB.88404EC6.IP PRIVMSG #programming :no I think it was a mod
+2014/10/11 16:45:32 PING :mindjail.subluminal.net
+2014/10/11 16:46:25 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :back
+2014/10/11 16:46:28 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :OgelSplash: nice
+2014/10/11 16:46:50 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :sammi: y ma printer no work :<
+2014/10/11 16:46:59 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :awww
+2014/10/11 16:47:03 PING :mindjail.subluminal.net
+2014/10/11 16:47:23 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :just gonna print it at school on Monday, it'll be easier
+2014/10/11 16:47:27 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :heh
+2014/10/11 16:47:31 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :limited to 50 pages though D:
+2014/10/11 16:47:37 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :Y U NO HAZ MONIES
+2014/10/11 16:47:38 :|!Karkat@hide-ADCBBDCC.tetrap.us PRIVMSG #programming :14YOU OGELSPLASH 13♥14
+2014/10/11 16:47:43 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :i have like 300 pages i think
+2014/10/11 16:47:59 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :we get 50 pages a week in black OR 10 in colour. it sucks
+2014/10/11 16:48:26 :me!sigma@B264FC1:8D66E6D9:70AB718:IP PRIVMSG #programming :abandoned them at a bus stop
+2014/10/11 16:48:30 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :and also, at the start of every lesson you get to see the teacher's remaining budget.... IT'S ALWAYS NEGATIVE
+2014/10/11 16:48:34 PING :mindjail.subluminal.net
+2014/10/11 16:48:38 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :me: nathan & Ducky?
+2014/10/11 16:48:41 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :me: ?
+2014/10/11 16:48:42 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming ::p
+2014/10/11 16:48:46 :me!sigma@B264FC1:8D66E6D9:70AB718:IP PRIVMSG #programming :hopefully a bus will come for them :P
+2014/10/11 16:48:49 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :oh
+2014/10/11 16:48:49 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :lol
+2014/10/11 16:48:53 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :._.
+2014/10/11 16:49:41 :me!sigma@B264FC1:8D66E6D9:70AB718:IP PRIVMSG #programming :https://www.youtube.com/watch?v=RCKBtsTk8eQ
+2014/10/11 16:49:44 :simbot!simbot@hide-F5E1BD93.dyn.estpak.ee PRIVMSG #programming :http://youtu.be/RCKBtsTk8eQ : Ainsley Harriott and his spicy meat [0:10] by Parilla; 797,972 views; 3++++++++++4
+2014/10/11 16:50:02 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming ::P
+2014/10/11 16:50:03 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :oh it's 600 pages
+2014/10/11 16:50:05 PING :mindjail.subluminal.net
+2014/10/11 16:50:24 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :+300 pages a year, max 600
+2014/10/11 16:50:28 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :i haven't used anything yet
+2014/10/11 16:50:54 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :50 a week, 40 weeks of school... 2k pages?
+2014/10/11 16:51:04 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :something like that, I dunno
+2014/10/11 16:51:32 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :you enjoy it me? ;p
+2014/10/11 16:51:39 PING :mindjail.subluminal.net
+2014/10/11 16:51:43 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :lol
+2014/10/11 16:51:53 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :(I'm gonna hazard a guess at yes.)
+2014/10/11 16:52:17 :Ducky!Ducky@i.am.rly.sx PRIVMSG #programming :ACTION quacks
+2014/10/11 16:52:27 :fox^!Nobody@7B18A3B.1075AE4B.DE2EE504.IP PRIVMSG #programming :!quack
+2014/10/11 16:52:28 :Ducky!Ducky@i.am.rly.sx PRIVMSG #programming :ACTION sits on fox^'s lap 
+2014/10/11 16:52:28 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :ACTION feeds Ducky some birdseed
+2014/10/11 16:52:32 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :hi ducky
+2014/10/11 16:52:34 :Ducky!Ducky@i.am.rly.sx PRIVMSG #programming :ACTION noms
+2014/10/11 16:52:34 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :!quack
+2014/10/11 16:52:34 :Ducky!Ducky@i.am.rly.sx PRIVMSG #programming :ACTION quacks 
+2014/10/11 16:52:38 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming ::p
+2014/10/11 16:52:41 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :!quack
+2014/10/11 16:52:41 :Ducky!Ducky@i.am.rly.sx PRIVMSG #programming :ACTION slaps sammi's face off 
+2014/10/11 16:52:43 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :...
+2014/10/11 16:52:46 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :!quack
+2014/10/11 16:52:46 :Ducky!Ducky@i.am.rly.sx PRIVMSG #programming :ACTION sets fire to #programming 
+2014/10/11 16:52:49 :fox^!Nobody@7B18A3B.1075AE4B.DE2EE504.IP PRIVMSG #programming :ACTION feeds Ducky nathan's d
+2014/10/11 16:52:53 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :hue
+2014/10/11 16:52:57 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :nuuu.. ah, probably a good thing :p
+2014/10/11 16:52:57 :Ducky!Ducky@i.am.rly.sx PRIVMSG #programming :om nom nom
+2014/10/11 16:53:13 PING :mindjail.subluminal.net
+2014/10/11 16:53:14 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :fox^: implying that didn't happen anyway? XD
+2014/10/11 16:53:26 :me!sigma@B264FC1:8D66E6D9:70AB718:IP PRIVMSG #programming :ಠ_ಠ
+2014/10/11 16:53:41 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :I'm kidding :p
+2014/10/11 16:54:00 :fox^!Nobody@7B18A3B.1075AE4B.DE2EE504.IP PRIVMSG #programming :?bash> echo -e '\a'
+2014/10/11 16:54:01 :ougi!ougi@B264FC1:8D66E6D9:70AB718:IP PRIVMSG #programming :[03✔] 
+2014/10/11 16:54:01 :artemis.subluminal.net KICK #programming ougi :Never gonna give you up, never gonna send you BELs, never gonna run around and desert you...
+2014/10/11 16:54:02 :fox^!Nobody@7B18A3B.1075AE4B.DE2EE504.IP PRIVMSG #programming :Batgirl: ^
+2014/10/11 16:54:02 :ougi!ougi@B264FC1:8D66E6D9:70AB718:IP JOIN :#programming
+2014/10/11 16:54:03 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :._.
+2014/10/11 16:54:18 :Batgirl!AndChat467@hide-9B400DF2.cable.virginm.net PRIVMSG #programming :Wat
+2014/10/11 16:54:46 PING :mindjail.subluminal.net
+2014/10/11 16:56:18 PING :mindjail.subluminal.net
+2014/10/11 16:56:27 :Ducky!Ducky@i.am.rly.sx PRIVMSG #programming :ACTION prods me
+2014/10/11 16:56:57 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :https://www.youtube.com/watch?v=y0C59pI_ypQ
+2014/10/11 16:56:59 :simbot!simbot@hide-F5E1BD93.dyn.estpak.ee PRIVMSG #programming :http://youtu.be/y0C59pI_ypQ : The Two Ronnies: Mastermind [2:45] by ratpackmanreturns; 807,356 views; 3++++++++++4
+2014/10/11 16:57:03 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :WAI U SO FANY
+2014/10/11 16:57:04 :|!Karkat@hide-ADCBBDCC.tetrap.us PRIVMSG #programming :ACTION 14REMINDS OGELSPLASH THAT, OF COURSE, YOU ARE THE PROBLEM
+2014/10/11 16:57:05 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming ::P
+2014/10/11 16:57:10 :OgelSplash!OgelSplash@38485360.F44253B8.A42ECE66.IP PRIVMSG #programming :I am never saying that again
+2014/10/11 16:57:51 PING :mindjail.subluminal.net
+2014/10/11 16:57:53 :OgelSplash!OgelSplash@38485360.F42014/10/12 14:40:35 :lithium.subluminal.net NOTICE AUTH :*** Looking up your hostname...
+2014/10/12 14:40:36 :lithium.subluminal.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+2014/10/12 14:40:36 PING :F6679870
+2014/10/12 14:40:36 :lithium.subluminal.net 001 Linx :Welcome to the subluminal IRC Network Linx!Linx@129.2.222.247
+:lithium.subluminal.net 002 Linx :Your host is lithium.subluminal.net, running version Unreal3.2.10.2
+:lithium.subluminal.net 003 Linx :This server was created Tue Apr 8 2014 at 16:00:05 EDT
+:lithium.subluminal.net 004 Linx lithium.subluminal.net Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:lithium.subluminal.net 005 Linx CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=70 CHANLIMIT=#:70 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:lithium.subluminal.net 005 Linx MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=subluminal CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+:lithium.subluminal.net 005 Linx STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2014/10/12 14:40:36 :lithium.subluminal.net 251 Linx :There are 3 users and 111 invisible on 7 servers
+:lithium.subluminal.net 252 Linx 14 :operator(s) online
+:lithium.subluminal.net 253 Linx -2 :unknown connection(s)
+:lithium.subluminal.net 254 Linx 92 :channels formed
+:lithium.subluminal.net 255 Linx :I have 49 clients and 1 servers
+:lithium.subluminal.net 265 Linx 49 64 :Current local users 49, max 64
+:lithium.subluminal.net 266 Linx 114 175 :Current global users 114, max 175
+:lithium.subluminal.net 422 Linx :MOTD File is missing
+:Linx MODE Linx :+iwx
+2014/10/12 14:40:36 :Linx!Linx@1820AF27.95522EE9.4FAE429.IP JOIN :#bots
+:lithium.subluminal.net 332 Linx #bots :Subluminal Bot channel
+:lithium.subluminal.net 333 Linx #bots nameless 1409465807
+:lithium.subluminal.net 353 Linx = #bots :Linx epsilon svkampen Atreus simbot doge Infobot ~jercos nathan ougi TimeBot will Evan me ~nameless @ChanServ xnil ~abzde 
+:lithium.subluminal.net 366 Linx #bots :End of /NAMES list.
+2014/10/12 14:40:37 :NickServ!NickServ@NickServ.services.subluminal.net NOTICE Linx :Linx is not a registered nickname.
+2014/10/12 14:40:43 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP JOIN :#bots
+2014/10/12 14:40:48 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :|help
+2014/10/12 14:40:49 :doge!skynet@i.am.rly.sx PRIVMSG #bots :Mav: available commands: add, aignore, ban, bitcoin, chat, checkban, cycle, ddg, deop, devoice, expand, firefox, fuckingweather, getinfo, getop, googleplay, help, imdb, img, info, isup, kick, kickban, lastfm, lastfmcompare, mcnametaken, metrictime, mode, mute, op, permissions, ping, pomf, quiet, randreddit, reddit, relay, rignore, rignored, rlysx, rss, seen, sh, source, tld, tpb, translate, unban, unmute, unquiet, uptime, version, voice, weather, whois, wikipedia, w
+2014/10/12 14:41:06 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :|reload
+2014/10/12 14:41:14 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :|help
+2014/10/12 14:41:15 :doge!skynet@i.am.rly.sx PRIVMSG #bots :Mav: available commands: add, aignore, ban, bitcoin, chat, checkban, cycle, ddg, deop, devoice, expand, firefox, fuckingweather, getinfo, getop, googleplay, help, imdb, img, info, isup, kick, kickban, lastfm, lastfmcompare, mcnametaken, metrictime, mode, mute, op, permissions, ping, pomf, quiet, randreddit, reddit, relay, rignore, rignored, rlysx, rss, seen, sh, source, tld, tpb, translate, unban, unmute, unquiet, uptime, version, voice, weather, whois, wikipedia, w
+2014/10/12 14:42:44 PING :lithium.subluminal.net
+2014/10/12 14:43:05 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :|reload
+2014/10/12 14:44:12 :lithium.subluminal.net NOTICE AUTH :*** Looking up your hostname...
+2014/10/12 14:44:13 :lithium.subluminal.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+2014/10/12 14:44:13 PING :F7160534
+2014/10/12 14:44:13 :lithium.subluminal.net 001 Linx :Welcome to the subluminal IRC Network Linx!Linx@129.2.222.247
+:lithium.subluminal.net 002 Linx :Your host is lithium.subluminal.net, running version Unreal3.2.10.2
+:lithium.subluminal.net 003 Linx :This server was created Tue Apr 8 2014 at 16:00:05 EDT
+:lithium.subluminal.net 004 Linx lithium.subluminal.net Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+:lithium.subluminal.net 005 Linx CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=70 CHANLIMIT=#:70 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:lithium.subluminal.net 005 Linx MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=subluminal CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+:lithium.subluminal.net 005 Linx STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2014/10/12 14:44:13 :lithium.subluminal.net 251 Linx :There are 3 users and 111 invisible on 7 servers
+:lithium.subluminal.net 252 Linx 14 :operator(s) online
+:lithium.subluminal.net 253 Linx -2 :unknown connection(s)
+:lithium.subluminal.net 254 Linx 92 :channels formed
+:lithium.subluminal.net 255 Linx :I have 49 clients and 1 servers
+:lithium.subluminal.net 265 Linx 49 64 :Current local users 49, max 64
+:lithium.subluminal.net 266 Linx 114 175 :Current global users 114, max 175
+:lithium.subluminal.net 422 Linx :MOTD File is missing
+:Linx MODE Linx :+iwx
+2014/10/12 14:44:13 :Linx!Linx@1820AF27.95522EE9.4FAE429.IP JOIN :#bots
+:lithium.subluminal.net 332 Linx #bots :Subluminal Bot channel
+:lithium.subluminal.net 333 Linx #bots nameless 1409465807
+:lithium.subluminal.net 353 Linx = #bots :Linx Mav epsilon svkampen Atreus simbot doge Infobot ~jercos nathan ougi TimeBot will Evan me ~nameless @ChanServ xnil ~abzde 
+:lithium.subluminal.net 366 Linx #bots :End of /NAMES list.
+2014/10/12 14:44:13 :NickServ!NickServ@NickServ.services.subluminal.net NOTICE Linx :Linx is not a registered nickname.
+2014/10/12 14:44:19 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :|reload
+2014/10/12 14:44:22 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :bety
+2014/10/12 14:45:51 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :|join #programming
+2014/10/12 14:45:52 :Linx!Linx@1820AF27.95522EE9.4FAE429.IP JOIN :#programming
+:lithium.subluminal.net 332 Linx #programming :Happy Birthday CSS | <kadence> xnil: i dare u to cum in her blanket | <cinebox> also BASE 10 IS ARBITRARY ARGH I HATE NUMBERS | #programming: no actual programming discussion. 
+:lithium.subluminal.net 333 Linx #programming jercos 1412972199
+:lithium.subluminal.net 353 Linx = #programming :Linx OverCoder Mav Krypt hintss Lion sarahcat &kadence Ari %Roman taco ougi Evan doge | %svkampen ChanStat alex Ducky tacobot OgelSplash @nathan Sigma simbot %sim642 unix_kid Sharpie cinebox Infobot Jordan zero %me carolny @sammi @ca fox^ null ~jercos NBot +alyx +symmetry +camel +TimeBot +will +artemis @ChanServ %xnil 
+:lithium.subluminal.net 366 Linx #programming :End of /NAMES list.
+2014/10/12 14:45:54 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :licks sammi 
+2014/10/12 14:45:55 :lithium.subluminal.net 421 Linx ingPRIVMSG :Unknown command
+2014/10/12 14:45:57 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :heh
+2014/10/12 14:46:05 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :^.^
+2014/10/12 14:46:18 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :ACTION licks sammi
+2014/10/12 14:46:23 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :ok wtf
+2014/10/12 14:46:27 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :|bio
+2014/10/12 14:46:30 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :WTF
+2014/10/12 14:46:33 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :WHY YOU WORK NOW
+2014/10/12 14:46:35 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :LOL
+2014/10/12 14:46:55 :sammi!sammi@hide-16081DA.dsl.bell.ca JOIN :#bots
+2014/10/12 14:46:59 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #bots :licks mav
+2014/10/12 14:47:03 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :oh
+2014/10/12 14:47:04 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :fuck
+2014/10/12 14:47:05 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :i see why it doesn't work
+2014/10/12 14:47:06 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :we are in bots
+2014/10/12 14:47:07 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :brb
+2014/10/12 14:47:08 :nathan!nathan@i.am.rly.sx PRIVMSG #bots :o.o
+2014/10/12 14:47:09 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #bots :lol
+2014/10/12 14:47:11 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :prepare for pings
+2014/10/12 14:47:17 :Roman!sasaki@B264FC1:8D66E6D9:70AB718:IP PRIVMSG #programming :i don't remember my dreams except when they involve sex
+2014/10/12 14:47:22 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :lol
+2014/10/12 14:47:25 :cinebox!cinebox@wildcard. PRIVMSG #programming :ofc you dont roman
+2014/10/12 14:47:26 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :ACTION licks sammi
+2014/10/12 14:47:28 :nathan!nathan@i.am.rly.sx PRIVMSG #bots :|togglec help
+2014/10/12 14:47:29 :doge!skynet@i.am.rly.sx PRIVMSG #bots :nathan: Disabled help
+2014/10/12 14:47:32 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :ok
+2014/10/12 14:47:34 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :yeah
+2014/10/12 14:47:34 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :brb fixing
+2014/10/12 14:47:37 :nathan!nathan@i.am.rly.sx PRIVMSG #bots :|help
+2014/10/12 14:47:38 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :self.channel = "#bots
+2014/10/12 14:47:39 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :"
+2014/10/12 14:47:43 :nathan!nathan@i.am.rly.sx PRIVMSG #bots :lol
+2014/10/12 14:47:44 :cinebox!cinebox@wildcard. PRIVMSG #programming :sammi: why what doesnt work 
+2014/10/12 14:47:53 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :mav's bot
+2014/10/12 14:47:54 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #bots :|reload
+2014/10/12 14:47:57 :cinebox!cinebox@wildcard. PRIVMSG #programming :ah
+2014/10/12 14:48:04 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :is sending to #bots instead of here
+2014/10/12 14:48:06 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :ACTION licks sammi
+2014/10/12 14:48:09 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :YAY
+2014/10/12 14:48:10 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :better
+2014/10/12 14:48:13 :sammi!sammi@hide-16081DA.dsl.bell.ca PART #bots
+2014/10/12 14:48:14 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming ::3
+2014/10/12 14:48:27 :cinebox!cinebox@wildcard. PRIVMSG #programming :what is it called?
+2014/10/12 14:48:36 :cinebox!cinebox@wildcard. PRIVMSG #programming :i disabled join messages because spamspam
+2014/10/12 14:48:37 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :ACTION licks cinebox 
+2014/10/12 14:48:38 :nathan!nathan@i.am.rly.sx PRIVMSG #programming :i don't like gentoo
+2014/10/12 14:48:42 :sammi!sammi@hide-16081DA.dsl.bell.ca PRIVMSG #programming :cinebox: ^
+2014/10/12 14:48:47 :cinebox!cinebox@wildcard. PRIVMSG #programming :ah
+2014/10/12 14:49:07 :cinebox!cinebox@wildcard. PRIVMSG #programming :why linx?
+2014/10/12 14:49:14 :cinebox!cinebox@wildcard. PRIVMSG #programming :links?
+2014/10/12 14:49:35 :nathan!nathan@i.am.rly.sx PRIVMSG #programming :http://i.imgur.com/2fhWft6.png
+2014/10/12 14:49:42 :Mav!Ryan@1820AF27.95522EE9.4FAE429.IP PRIVMSG #programming :|reload
+2014/10/12 14:52:21 :lithium.subluminal.net NOTICE AUTH :*** Looking up your hostname...
+2014/10/12 14:52:42 :lithium.subluminal.net NOTICE AUTH :*** Looking up your hostname...
+2014/10/12 14:52:59 :lithium.subluminal.net NOTICE AUTH :*** Looking up your hostname...
+2014/10/12 14:53:05 :lithium.subluminal.net NOTICE AUTH :*** Looking up your hostname...
+2014/10/12 14:53:06 :lithium.subluminal.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+2014/10/12 14:53:06 PING :8C5F8D95
+2014/10/12 14:53:54 :lithium.subluminal.net NOTICE AUTH :*** Looking up your hostname...
+2014/10/12 14:53:55 :lithium.subluminal.net NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+2014/10/12 14:53:55 PING :21FB43FB
