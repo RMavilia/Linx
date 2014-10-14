@@ -24,4 +24,5 @@ while loop:
 	if "|reload" in incomingMsg:
 		imp.reload(plugins)
 		myPlugins=plugins.PluginsClass(server,channel,nickname,password,ircsocket)
+		myPlugins.sendMessage(ircsocket,channel,"Plugins Reloaded")
 	myPlugins.pluginStatements(ircsocket,incomingMsg)
