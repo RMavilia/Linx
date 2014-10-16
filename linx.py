@@ -9,6 +9,7 @@ channel = "#bots" #Channel
 nickname = "Linx" #Bot nickname
 password = raw_input("What is your password? ")
 port = 6667
+
 ircsocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 myPlugins=plugins.PluginsClass(server,channel,nickname,password,ircsocket)
 ircsocket.connect((server,port))
