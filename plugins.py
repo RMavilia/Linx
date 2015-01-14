@@ -17,8 +17,8 @@ class PluginsClass:
 		ircsocket.send("PART "+newChannel+" "+leaveMessage+"\r\n")
 	def pluginStatements(self,ircsocket,incomingMsg):
 
-		if incomingMsg.find('PING') != -1: #If PING is Found in the data send a pong back
-			ircsocket.send('PONG '+incomingMsg.strip("PING "))
+		if incomingMsg.startswith('PING') #If message is a PING message send a PONG in response
+			ircsocket.send('PONG'+incomingMsg[4:])
 		if "001" in incomingMsg:
 			ircsocket.send("PRIVMSG NickServ :identify "+self.nickname+" "+self.password+"\r\n")
 			ircsocket.send("JOIN " + self.channel+"\r\n")
