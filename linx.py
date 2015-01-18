@@ -3,7 +3,6 @@ import plugins
 import imp
 from datetime import datetime
 
-
 server = "irc.subluminal.net" #Server
 channel = "#bots" #Channel
 nickname = "Linx" #Bot nickname
