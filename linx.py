@@ -9,20 +9,20 @@ nickname = "Linx" #Bot nickname
 password = raw_input("What is your password? ")
 port = 6667
 
-ircsocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-myPlugins=plugins.PluginsClass(server,channel,nickname,password,ircsocket)
-ircsocket.connect((server,port))
-ircsocket.send("NICK "+ nickname+"\r\n")
-ircsocket.send("USER "+nickname+" 0 * "+ ":RYAN"+"\r\n")
+irc_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+my_plugins = plugins.Plugins(server, channel, nickname, password, irc_socket)
+irc_socket.connect((server, port))
+irc_socket.send("NICK "+nickname+"\r\n")
+irc_socket.send("USER "+nickname+" 0 * "+":RYAN"+"\r\n")
 archiveFile = open("archive.txt", 'a+')
-loop=True
+loop = True
 
 while loop:
-	incomingMsg = ircsocket.recv (4096) #Make Data the Receive Buffer
-	print incomingMsg #Print the Data to the console(For debug purposes)
-	archiveFile.write(str(datetime.now().strftime('%Y/%m/%d %H:%M:%S'))+" "+ incomingMsg)#log it in the archive txt doc
-	if "|reload" in incomingMsg:
+	incoming_msg = irc_socket.recv(4096) #Make Data the Receive Buffer
+	print incoming_msg #Print the Data to the console(For debug purposes)
+	archiveFile.write(str(datetime.now().strftime('%Y/%m/%d %H:%M:%S'))+" "+incoming_msg)#log it in the archive txt doc
+	if "|reload" in incoming_msg:
 		imp.reload(plugins)
-		myPlugins=plugins.PluginsClass(server,channel,nickname,password,ircsocket)
-		myPlugins.sendMessage(ircsocket,channel,"Plugins Reloaded")
-	myPlugins.pluginStatements(ircsocket,incomingMsg)
+		my_plugins = plugins.Plugins(server, channel, nickname, password, irc_socket)
+		my_plugins.send_message(irc_socket, channel, "Plugins Reloaded")
+	my_plugins.plugin_statements(irc_socket, incoming_msg)
