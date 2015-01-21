@@ -12,15 +12,15 @@ port = 6667
 irc_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 my_plugins = plugins.Plugins(server, channel, nickname, password, irc_socket)
 irc_socket.connect((server, port))
-irc_socket.send("NICK "+nickname+"\r\n")
-irc_socket.send("USER "+nickname+" 0 * "+":RYAN"+"\r\n")
+irc_socket.send("NICK %s\r\n" % nickname)
+irc_socket.send("USER %s 0 * :RYAN\r\n" % nickname)
 archiveFile = open("archive.txt", 'a+')
 loop = True
 
 while loop:
 	incoming_msg = irc_socket.recv(4096) #Make Data the Receive Buffer
 	print incoming_msg #Print the Data to the console(For debug purposes)
-	archiveFile.write(str(datetime.now().strftime('%Y/%m/%d %H:%M:%S'))+" "+incoming_msg)#log it in the archive txt doc
+	archiveFile.write("%s %s" % (str(datetime.now().strftime('%Y/%m/%d %H:%M:%S')), incoming_msg)) #Log it in the archive txt doc
 	if "|reload" in incoming_msg:
 		imp.reload(plugins)
 		my_plugins = plugins.Plugins(server, channel, nickname, password, irc_socket)
