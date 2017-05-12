@@ -4,11 +4,12 @@ import plugins
 import imp
 from datetime import datetime
 
-server = "ircserver" #Server
-channel = "#programming" #Channel
-nickname = "Linx2" #Bot nickname
+server = raw_input("Server address? ") #Server
+channel = raw_input("What channel? ") #Channel
+nickname = raw_input("Nickname? ") #Bot nickname
 password = raw_input("What is your password? ") #Password Input
-port = 6667
+port = raw_input("What is the port? (Press ENTER if 6667)") or 6667
+
 
 irc_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 my_plugins = plugins.Plugins(server, channel, nickname, password, irc_socket)
