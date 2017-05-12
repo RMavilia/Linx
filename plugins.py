@@ -53,7 +53,7 @@ class Plugins:
                         self.join_channel(irc_socket, new_channel)
 
                 # this kills the bot :(
-                # First uses shutdown then closes the socket which is supposedly the proper way of finishing off a socket
+                # Closes the socket which is supposedly the proper way of finishing off a socket
                 elif "|kill" in incoming_msg:
                         self.irc_socket.shutdown()
                         self.irc_socket.close()
