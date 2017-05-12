@@ -6,8 +6,8 @@ from datetime import datetime
 
 server = raw_input("Server address? ") #Server
 channel = raw_input("What channel? ") #Channel
-nickname = raw_input("Nickname? ") #Bot nickname
-password = raw_input("What is your password? ") #Password Input
+nickname = raw_input("Nickname? ") or "Linx" #Bot nickname
+password = raw_input("What is your password? (Press ENTER for blank) ") #Password Input
 port = raw_input("What is the port? (Press ENTER if 6667)") or 6667
 
 
